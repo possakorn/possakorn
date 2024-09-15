@@ -58,4 +58,4 @@ I am a graduated data scientist with a strong background in computer science wit
 | [Diabetes Prediction](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/DeepLearning_DiabetesPrediction_Perceptron.pdf) | Deep Learning | The task is to predict diabetes using perceptron algorithms on Pima Indians Diabetes Database.| Python, Pytorch |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=possakorn&layout=compact)
