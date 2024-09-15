@@ -5,7 +5,7 @@ I am a graduated data scientist with a strong background in computer science wit
 - 👯 I’m looking to work on **Data Scientist** and **Business intelligence Analyst**.
 - 🌱 I’m currently learning Computer Vision and large language models (LLMs)
 - 💬 Ask me about previous projects and hobbies.
-- 📫 How to reach me: Linkidn and Gmail(possakorn.k@gmail.com).
+- 📫 How to reach me: Linkedin and Gmail(possakorn.k@gmail.com).
 - 🌱 What I am doing in my Leisure Time: Exploring the new hiking tracks and new technologies.
 - ✨ Loving: Coffee and Running.
 
