@@ -13,7 +13,7 @@ I am a graduated data scientist with a strong background in computer science wit
 
 <p align="center"> 
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="35" height="35"/></code>
     </a> 
     <a href="https://www.w3schools.com/r/default.asp" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" alt="cplusplus" width="35" height="35"/></code> 
