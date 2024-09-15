@@ -19,31 +19,31 @@ I am a graduated data scientist with a strong background in computer science wit
 
 <p align="center"> 
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/></code>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></code>
     </a> 
     <a href="https://www.w3schools.com/r/default.asp" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" alt="R" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" alt="R" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.w3schools.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="50" height="50"/></code> 
     </a>
     <a href="https://www.w3schools.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></code> 
     </a>
     <a href="https://www.w3schools.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" alt="Plotly" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" alt="Plotly" width="50" height="50"/></code> 
     </a>
     <a href="https://www.w3schools.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="50" height="50"/></code> 
     </a>
     <a href="https://www.w3schools.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/></code> 
     </a>
     <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"> 
-        <code><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" width="35" height="35"/></code> 
+        <code><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" width="50" height="50"/></code> 
     </a>
     <a href="https://www.tableau.com/" target="_blank"> 
-        <code><img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="35" height="35"/></code> 
+        <code><img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50"/></code> 
     </a> 
 </p>
 <br>
