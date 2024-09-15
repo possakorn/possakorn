@@ -56,3 +56,6 @@ I am a graduated data scientist with a strong background in computer science wit
 | [S&P500 Stock Prediction](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/DeepLearning_StockPricePrediction_RNN.pdf) | Deep Learning | The task is to predict stock value using recurrent neural networks (RNNs) to reveal dynamic characteristics of financial time series. | Python, Pytorch |
 | [Enhanced Image Classification across diverse datasets](https://github.com/guolipin/IBM_stock_prediction)   | Computer Vision | The task is to implement deep learning algorithms to highlight residual learning performance. | Python, Pytorch |
 | [Diabetes Prediction](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/DeepLearning_DiabetesPrediction_Perceptron.pdf) | Deep Learning | The task is to predict diabetes using perceptron algorithms on Pima Indians Diabetes Database.| Python, Pytorch |
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
